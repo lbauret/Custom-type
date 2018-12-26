@@ -1,1 +1,1 @@
-{"name":"Custom-type","classifier":"raml-fragment","tags":["type"],"main":"custom-type.raml","groupId":"388876b1-5bef-4d0e-aeeb-d2c5be22b1f6","assetId":"custom-type","version":"1.0.0","backwardsCompatible":true}
+{"name":"Custom-type","classifier":"raml-fragment","tags":["type"],"main":"custom-type.raml","groupId":"388876b1-5bef-4d0e-aeeb-d2c5be22b1f6","assetId":"custom-type","version":"1.0.0","backwardsCompatible":false}
